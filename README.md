@@ -5,7 +5,7 @@
 
 ## Installation
 
-> I'm working on a *bash-script* to to this process automatically.
+> The `install.sh` do all of the steps automatically.
 
 The installation process is simple, just follow this steps:
 
